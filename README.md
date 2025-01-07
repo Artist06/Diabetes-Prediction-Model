@@ -50,6 +50,3 @@ Create a web or mobile application for easier access to the predictive system.
 Acknowledgment
 The dataset used in this project is from the Pima Indians Diabetes Database.
 Thanks to siddharthan(youtube) for teaching concepts with great clarity.
-
-
-The dataset used in this project is from the Pima Indians Diabetes Database.
